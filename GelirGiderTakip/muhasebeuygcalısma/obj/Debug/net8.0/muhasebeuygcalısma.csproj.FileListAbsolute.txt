@@ -1,0 +1,42 @@
+C:\Users\Beyza\source\repos\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\muhasebeuygcalısma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beyza\source\repos\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\muhasebeuygcalısma.AssemblyInfoInputs.cache
+C:\Users\Beyza\source\repos\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\muhasebeuygcalısma.AssemblyInfo.cs
+C:\Users\Beyza\source\repos\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\muhasebeuygcalısma.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\source\repos\muhasebeuygcalısma\muhasebeuygcalısma\bin\Debug\net8.0\muhasebeuygcalısma.exe
+C:\Users\Beyza\source\repos\muhasebeuygcalısma\muhasebeuygcalısma\bin\Debug\net8.0\muhasebeuygcalısma.deps.json
+C:\Users\Beyza\source\repos\muhasebeuygcalısma\muhasebeuygcalısma\bin\Debug\net8.0\muhasebeuygcalısma.runtimeconfig.json
+C:\Users\Beyza\source\repos\muhasebeuygcalısma\muhasebeuygcalısma\bin\Debug\net8.0\muhasebeuygcalısma.dll
+C:\Users\Beyza\source\repos\muhasebeuygcalısma\muhasebeuygcalısma\bin\Debug\net8.0\muhasebeuygcalısma.pdb
+C:\Users\Beyza\source\repos\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\muhasebeuygcalısma.dll
+C:\Users\Beyza\source\repos\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\refint\muhasebeuygcalısma.dll
+C:\Users\Beyza\source\repos\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\muhasebeuygcalısma.pdb
+C:\Users\Beyza\source\repos\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\muhasebeuygcalısma.genruntimeconfig.cache
+C:\Users\Beyza\source\repos\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\ref\muhasebeuygcalısma.dll
+C:\Users\Beyza\Desktop\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\bin\Debug\net8.0\muhasebeuygcalısma.exe
+C:\Users\Beyza\Desktop\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\bin\Debug\net8.0\muhasebeuygcalısma.deps.json
+C:\Users\Beyza\Desktop\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\bin\Debug\net8.0\muhasebeuygcalısma.runtimeconfig.json
+C:\Users\Beyza\Desktop\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\bin\Debug\net8.0\muhasebeuygcalısma.dll
+C:\Users\Beyza\Desktop\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\bin\Debug\net8.0\muhasebeuygcalısma.pdb
+C:\Users\Beyza\Desktop\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\muhasebeuygcalısma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beyza\Desktop\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\muhasebeuygcalısma.AssemblyInfoInputs.cache
+C:\Users\Beyza\Desktop\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\muhasebeuygcalısma.AssemblyInfo.cs
+C:\Users\Beyza\Desktop\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\muhasebeuygcalısma.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\Desktop\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\muhasebeuygcalısma.dll
+C:\Users\Beyza\Desktop\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\refint\muhasebeuygcalısma.dll
+C:\Users\Beyza\Desktop\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\muhasebeuygcalısma.pdb
+C:\Users\Beyza\Desktop\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\muhasebeuygcalısma.genruntimeconfig.cache
+C:\Users\Beyza\Desktop\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\ref\muhasebeuygcalısma.dll
+C:\Users\Beyza\Desktop\Drivers\auto-run\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\bin\Debug\net8.0\muhasebeuygcalısma.exe
+C:\Users\Beyza\Desktop\Drivers\auto-run\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\bin\Debug\net8.0\muhasebeuygcalısma.deps.json
+C:\Users\Beyza\Desktop\Drivers\auto-run\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\bin\Debug\net8.0\muhasebeuygcalısma.runtimeconfig.json
+C:\Users\Beyza\Desktop\Drivers\auto-run\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\bin\Debug\net8.0\muhasebeuygcalısma.dll
+C:\Users\Beyza\Desktop\Drivers\auto-run\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\bin\Debug\net8.0\muhasebeuygcalısma.pdb
+C:\Users\Beyza\Desktop\Drivers\auto-run\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\muhasebeuygcalısma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beyza\Desktop\Drivers\auto-run\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\muhasebeuygcalısma.AssemblyInfoInputs.cache
+C:\Users\Beyza\Desktop\Drivers\auto-run\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\muhasebeuygcalısma.AssemblyInfo.cs
+C:\Users\Beyza\Desktop\Drivers\auto-run\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\muhasebeuygcalısma.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\Desktop\Drivers\auto-run\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\muhasebeuygcalısma.dll
+C:\Users\Beyza\Desktop\Drivers\auto-run\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\refint\muhasebeuygcalısma.dll
+C:\Users\Beyza\Desktop\Drivers\auto-run\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\muhasebeuygcalısma.pdb
+C:\Users\Beyza\Desktop\Drivers\auto-run\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\muhasebeuygcalısma.genruntimeconfig.cache
+C:\Users\Beyza\Desktop\Drivers\auto-run\flasha atılacaklar\beyaz usb\repo\muhasebeuygcalısma\muhasebeuygcalısma\obj\Debug\net8.0\ref\muhasebeuygcalısma.dll
